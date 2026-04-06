@@ -42,6 +42,7 @@ Floka</a>
         </li>
         <li><a>Portfolio</a></li>
         <li><a>Blog</a></li>
+        <li><a>Contact</a></li>
        
       </ul>
     </div>
